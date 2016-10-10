@@ -1,7 +1,7 @@
 # Assignment 2 - Temperature Converter
 ## Due 10-10-2016
 ## Author
-
+Scott Batey
 ## Description
 
 Create a temperature converter application.
@@ -43,5 +43,7 @@ The book does not cover how to do work with Radio Buttons. I will talk about it 
 | Total                    | 100    |
 
 ## Outside Resources Used
+StackOverflow.com
 
 ## Known Problems, Issues, And/Or Errors in the Program
+N/A
